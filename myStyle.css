@@ -27,14 +27,17 @@
     letter-spacing: 0.1rem;
 }
 
-.input-area{
-    
+.input-div{
+    justify-content: center;
     font-family: 'Hind', sans-serif;
-    width: auto;
-    /* border: solid #cccccc; */
-    padding: 5px;
+    width: 80%;
     margin: auto;
-    
+}
+
+.input-area{
+    display: block;
+    margin: auto;
+    width: 100%;
 }
 
 .button-area{
