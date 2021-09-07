@@ -18,7 +18,7 @@
     width: 100%;
     max-width: 40rem;
     border-radius: 3rem;
-    background-color: rgba(0, 0, 0, 0.568);
+    background-color: rgba(0, 0, 0, 0.733);
 }
 
 .header{
@@ -69,4 +69,13 @@
     font-family: 'Hind', sans-serif;
     margin: auto;
     font-size: x-large;
+    padding: 2rem;
 }
+
+/* #output{
+    border-width: 3rem;
+    border: 1px solid brown;
+    height: 10vh;
+    width: 40vw;
+} */
+
